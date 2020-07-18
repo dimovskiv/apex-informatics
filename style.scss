@@ -18,7 +18,7 @@ html {
     display:flex;
     justify-content: center;
     align-items: center;
-    background-attachment: fixed;
+
     .wrapper {
         display:flex;
         flex-direction:column;
@@ -281,7 +281,7 @@ padding:0 !important;
      background-size:contain;
      background-position: center;
      flex-direction: column;
-     background-attachment: fixed;
+
      h5 {
          background-color:white;
          color:$logo;
