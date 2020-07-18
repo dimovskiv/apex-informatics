@@ -352,7 +352,7 @@ html {
 }
 
 .banner {
-  height: 20%;
+  height: 35%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -362,7 +362,7 @@ html {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url("geo.jpg");
+  background-image: url("geo1.jpg");
   background-size: contain;
   background-position: center;
   -webkit-box-orient: vertical;
@@ -587,7 +587,7 @@ html {
 }
 
 .footer {
-  height: 30%;
+  height: 35%;
   background-image: url("geo1.jpg");
   background-size: cover;
   padding: 1rem;
